@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Yeakub
+### Hi 👋, I'm Yeakub
 #### Learning web and app development.
 Passionate about learning the intricacies of app and web development. Constantly exploring new technologies and refining my skills to create innovative and impactful digital experiences. Excited to collaborate, learn, and contribute to the ever-evolving world of technology.
 
